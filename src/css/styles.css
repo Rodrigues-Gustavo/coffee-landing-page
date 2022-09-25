@@ -179,3 +179,15 @@ body {
 .rodape .conteudo-de-baixo{
     margin-top: 40px;
 }
+
+.rodape .social {
+    text-decoration: none;
+    margin-top: 15px
+    
+}
+.rodape .social a {
+    margin-top: 15px;
+   
+    /* background-color: red; */
+    color: white;
+}

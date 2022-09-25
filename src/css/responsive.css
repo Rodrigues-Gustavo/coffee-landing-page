@@ -104,6 +104,11 @@
     .secao-com-texto.onde-estamos p{
         font-size: 2rem;
     }
+    .rodape .social {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
 
     
 }
