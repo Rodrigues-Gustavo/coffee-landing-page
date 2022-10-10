@@ -1,5 +1,4 @@
 # Landing Page - Coffee code
-# Landing Page - AGÊNCIA XYZ
 
 ### Projeto desenvolvido para portifólio pessoal.
 
@@ -12,11 +11,11 @@
 <P align="center">Uma landing page de uma loja com o tema café</p>
 <h1 align="center"> TESTAR</h1>
 
-<a href="https://rodrigues-gustavo.github.io/agencia-xyz/">testar projeto</a>
+<a href="https://rodrigues-gustavo.github.io/coffee-landing-page/">testar projeto</a>
 
 <div align="center">
  
-
+![Tropical Beige Aesthetic Wallpaper Background](https://user-images.githubusercontent.com/102608021/194863097-595e6118-41cb-4716-830f-47c90470dc7f.png)
 
 </div>
 
